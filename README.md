@@ -4,7 +4,7 @@
 
 I'm a **Columbia University graduate**, **MIT IDDEAS Sloan Scholar**, and **Data Analytics & Engineering Consultant at The Information Lab**.
 
-My interests lie at the intersection of **development economics, inequality, institutions, and data engineering**. I'm passionate about using data to understand why societies develop differently and how evidence can inform better decisions.
+My interests lie at the intersection of **economics, inequality, institutions, gender parity and data engineering**. I'm passionate about using data to understand why societies develop differently and how evidence can inform better decisions.
 
 ### 🛠️ Tools & Technologies I'm Learning and Working With
 
