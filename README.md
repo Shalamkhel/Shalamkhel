@@ -26,7 +26,7 @@ I'm continuously developing my technical skills through hands-on projects, resea
 
 I'm building a portfolio of projects exploring data analytics, engineering, and applied research.
 
-*Projects coming soon.*
+[Women in Economics (1994–2020)](https://github.com/Shalamkhel/women-in-economics-1994-2020)
 
 ### 🎓 Education & Experience
 
